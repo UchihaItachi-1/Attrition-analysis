@@ -1,0 +1,5 @@
+jupyter notebook --notebook-dir=D:\ 
+
+pyspark --master local[*]
+
+use in anaconda command prompt for jupyter notebook and pyspark 
